@@ -1,7 +1,9 @@
 Manifest-Version: 1.0
 Implementation-Title: bookStore
 Implementation-Version: 0.0.1-SNAPSHOT
-
+Built-By: ￥ﾼﾠ￥ﾁﾥ
+Implementation-Vendor-Id: com.mycls
+Build-Jdk: 1.8.0_101
 Implementation-URL: http://projects.spring.io/spring-boot/bookStore/
 Created-By: Maven Integration for Eclipse
 Implementation-Vendor: Pivotal Software, Inc.
